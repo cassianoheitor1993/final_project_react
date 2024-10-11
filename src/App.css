@@ -6,6 +6,9 @@
 }
 
 .cassiano_picture{
+    height: 100px;
+    width: 100px;
+    object-fit: fill;
     border-radius: 50%;
     border: white 3px solid;
 }
