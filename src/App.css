@@ -6,11 +6,17 @@
 }
 
 .cassiano_picture{
-    height: 100px;
-    width: 100px;
-    object-fit: fill;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
     border-radius: 50%;
     border: white 3px solid;
+}
+
+.cassiano_picture:hover{
+    height: 210px;
+    width: 210px;
+    transition: 0.2s;
 }
 
 .logo {
