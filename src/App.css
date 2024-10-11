@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+.cassiano_picture{
+    border-radius: 50%;
+    border: white 3px solid;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

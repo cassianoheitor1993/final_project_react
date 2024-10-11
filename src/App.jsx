@@ -10,11 +10,8 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
         <a href="https://www.linkedin.com/in/cassiano-medeiros-8b17ab46/" target="_blank">
-          <img src={cassiPicture} className="cassiano picture" alt="Cassiano Picture" />
+          <img src={cassiPicture} className="cassiano_picture" alt="Cassiano Picture" />
         </a>
       </div>
       <h1>Cassiano Portfolio</h1>
